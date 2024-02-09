@@ -11,7 +11,7 @@
 
 - All of my projects are available at https://www.datascienceportfol.io/harshitha1201
 
-- How to reach me **harshithadiddige24@gmail.com**
+- How to reach me -> **harshithadiddige24@gmail.com**
 
 
 
